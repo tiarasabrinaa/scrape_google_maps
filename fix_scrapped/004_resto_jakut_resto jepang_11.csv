@@ -1,0 +1,12 @@
+id_resto;name;category;latitude;longitude;harga_terendah;harga_tertinggi;description;reviews_count
+1;Fukumaru Japanese Restaurant;Restoran Jepang;-62.339.645;1.067.486.727;N/A;N/A;N/A;10
+2;Hotaru Deli Japanese Premium Bento;Restoran;-62.203.515;1.066.305.214;100.000;125.000;;10
+4;Yakiniku Like Mall of Indonesia;Restoran Cepat Saji;-61.511.015;1.067.392.342;N/A;N/A;N/A;10
+5;Gion The Sushi Bar, Mall Of Indonesia;Restoran Jepang;-61.511.015;1.067.392.342;N/A;N/A;N/A;10
+6;Yakiniku Like Mall of Indonesia;Restoran Cepat Saji;-60.300.844;1.067.012.751;N/A;N/A;N/A;10
+10;IPPEKE KOMACHI;Restoran Jepang;-61.511.015;1.067.392.342;N/A;N/A;Tempat makan mal kontemporer dengan ruang makan nyaman yang menyajikan masakan Jepang sesuai pesanan.;10
+11;Sushi Go! EMPORIUM PLUIT MALL;Restoran Sushi;-61.270.458;1.066.381.563;N/A;N/A;N/A;10
+13;Sushi Hiro Kelapa Gading;Restoran Sushi;-61.695.836;106.746.872;N/A;N/A;Destinasi minimalis & kontemporer yang menyajikan hidangan Jepang elegan & sushi.;10
+16;Shaburi Grand Indonesia;Restoran Jepang;-61.695.836;106.746.872;N/A;250000;N/A;10
+18;Ramen Seirock-Ya Jepang Mall Kelapa Gading 2;Restoran Jepang;-61.695.836;106.746.872;75.000;100.000;N/A;10
+19;Furusato Izakaya;Restoran Jepang Autentik;-61.695.836;106.746.872;N/A;250000;Destinasi mewah yang membuat hidangan Jepang di restoran minimalis dengan ruang makan pribadi.;10

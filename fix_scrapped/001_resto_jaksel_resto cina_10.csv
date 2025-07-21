@@ -1,0 +1,11 @@
+id_resto;name;category;latitude;longitude;harga_terendah;price_range;description;reviews_count
+1;Sinar Mandala Restoran;Restoran China;-62.391.907;1.067.906.805;N/A;N/A;N/A;10
+2;RM Cahaya Selatan;Restoran China;-62.391.907;1.067.906.805;25.000;50.000;N/A;10
+3;Bubur Ting Hao;Restoran China;-62.391.907;1.067.906.805;50.000;75.000;N/A;10
+4;Mandala Baru;Restoran China;-62.409.937;1.067.716.213;N/A;N/A;Restoran simpel berinterior mewah yang menyajikan sajian khas China dan masakan halal yang melimpah.;10
+5;Suck My Duck;Restoran China;-62.409.937;1.067.716.213;N/A;N/A;N/A;10
+9;THREE UNCLES Prapanca;Restoran China;-62.409.937;1.067.716.213;N/A;N/A;N/A;10
+11;168 Restaurant & Katering;Restoran China;-62.409.937;1.067.716.213;N/A;N/A;N/A;10
+12;Restoran Tjahaja Abadi;Restoran China;-62.409.937;1.067.716.213;75.000;100.000;N/A;10
+14;Dimsum Pertok;Restoran Dim Sum;-62.409.937;1.067.716.213;50.000;75.000;N/A;10
+15;HAKA Dimsum Blok M;Restoran Dim Sum;-62.409.937;1.067.716.213;50.000;75.000;N/A;10

@@ -1,0 +1,19 @@
+id_resto;name;category;latitude;longitude;harga_terendah;harga_tertinggi;description;reviews_count
+1;Asinan Betawi H.Mansyur Kamboja;Restoran Betawi;-6.2008452;106.882402;1;25.000;Makanan khas Indonesia, mulai dari asinan sayur hingga mi tahu, yang disajikan di kedai standar yang nyaman.;10
+2;Warung Taburai - Jakarta Timur;Restoran Indonesia;-6.219553;106.8970521;25.000;50.000;N/A;10
+3;Ibu Bandung, Masakan Khas Sunda;Restoran Sunda;-6.2267987;106.8813734;N/A;N/A;N/A;10
+4;Sambal Bakar Indonesia, Duren Sawit;Restoran Indonesia;-6.2220169;106.9122625;25.000;50000;N/A;10
+5;Warung Belut Khas Surabaya Rawamangun;Restoran;-6.1996017;106.8951159;25.000;50000;Restoran minimalis dengan tempat duduk simpel yang menyajikan belut goreng pedas & masakan klasik Surabaya.;10
+6;NASI GANDUL PAKDE , Buaran, Duren Sawit Jakarta Timur ( sebrang Bank PANIN Buaran );Rumah Makan;-6.2203257;106.9200867;1;25000;N/A;10
+7;Kedai Kayumanis;Restoran Indonesia;-6.2064692;106.8612151;25.000;50000;Tempat makan dengan aneka menu Nusantara, antara lain nasi bogana, nasi jinggo, dan menu lainnya.;10
+8;Rumah Makan Marannu;Restoran Sulawesi Selatan;-6.2063769;106.8225902;75.000;100000;Hidangan daerah Indonesia termasuk sup daging pedas yang ditawarkan di tempat luas penuh warna.;10
+9;Bebek Sakera Reborn;Restoran;-6.2132195;106.9214291;25.000;50000;Menu rumahan lezat khas Indonesia seperti bebek dan sate, yang disajikan larut malam di restoran nyaman.;10
+10;ROPISBAK GHIFARI Balai Pustaka Rawamangun;Restoran Indonesia;-6.197471;106.8836629;25.000;50000;Makanan khas Indonesia, mulai dari bakso hingga nasi pedas, ditawarkan di kafe kontemporer yang nyaman.;10
+11;Makanan Khas Madura;Restoran Jawa Timur;-6.1974442;106.8759381;N/A;N/A;N/A;7
+12;Lesehan Jawa Timur;Restoran Jawa;-6.2698952;106.8561811;25.000;50000;N/A;10
+15;Warung Jawa Timur;Restoran Jawa;-6.2698845;106.8561811;25.000;50000;;10
+16;Rumah Makan Betawi Hj. Dahlia;Restoran Betawi;-6.3048706;106.8846512;50.000;75000;;10
+17;Warung Mak Dower;Restoran Betawi;-6.1932069;106.8945989;50.000;75000;Tempat makan sederhana dan terbuka dengan area duduk simpel yang menyajikan hidangan Betawi klasik.;10
+18;Abunawas Restaurant - Matraman;Restoran Timur Tengah;-6.2006201;106.850287;N/A;N/A;Restoran Timur Tengah klasik di tempat khusus acara yang indah dengan masakan rumahan.;10
+20;Ayam Betutu Khas Gilimanuk Bali, Rawamangun;Restoran Bali;-6.1971573;106.8836861;50.000;75000;Tempat makan yang menyajikan masakan Bali dan Indonesia di suasana yang terbuka, plus kipas angin.;10
+;;;;;;;;
