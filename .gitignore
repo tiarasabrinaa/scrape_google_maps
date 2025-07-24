@@ -1,2 +1,4 @@
 /.venv
 /fix_scrapped copy
+/.tmp.drivedownload
+/.tmp.driveupload
